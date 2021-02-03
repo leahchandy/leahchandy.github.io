@@ -6,7 +6,7 @@ permalink: /about/
 My interests are in neuroscience, psychology, machine learning, computer science, and math. My future goal is to create and apply machine learning algorithms to the study of neurodegenerative and neurogenetic diseases. 
 
 ### CV
-![CV](Resume.pdf)
+[CV](Resume.pdf)
 
 
 ### More Information
