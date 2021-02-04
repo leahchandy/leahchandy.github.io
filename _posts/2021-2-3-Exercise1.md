@@ -3,4 +3,6 @@ layout: title
 post: Exercise 1!
 ---
 
-!(https://github.com/leahchandy/leahchandy.github.io/blob/master/_posts/Lab01.html)
+This exercise goes over the basics of R programming.
+
+![Lab 1](Lab01.html)
