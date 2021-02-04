@@ -3,4 +3,4 @@ layout: title
 post: Exercise 1!
 ---
 
-# [Lab01](Lab01.html)
+![Lab 1](Lab01.html)
