@@ -11,3 +11,9 @@ permalink: /exercises/
 
 ## Exercise 3
 ### [Lab03](Lab03.html)
+
+## Exercise 4
+### [Lab04](Lab04.html)
+
+## Exercise 5
+### [Lab05](Lab05.html)
