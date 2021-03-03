@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Exercises
+title: Knowledge Mining Exercises
 permalink: /exercises/
 ---
-# Knowledge Mining Exercises
 These exercises are coded in R.
 
 ## Exercise 1: [Lab01](Lab01.html)
