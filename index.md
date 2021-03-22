@@ -42,3 +42,6 @@ Assignment 4 goes over:
 - principal component analysis
 - K-means clustering 
 - hierarchical clustering
+
+## Assignment 5: [Assignment5](assignment5.html)
+Assignment 5 creates a word cloud of Winston Churchill's speech. If the word is large, it shows up frequently in the speech.
