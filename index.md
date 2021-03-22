@@ -37,7 +37,7 @@ Exercise 5 goes over:
 - setting plot configurations
 - interaction terms
 
-## Assignment 4: [Assignment4](Assignment4.html)
+## Assignment 4: [Assignment4](assignment4.html)
 Assignment 4 goes over:
 - principal component analysis
 - K-means clustering 
