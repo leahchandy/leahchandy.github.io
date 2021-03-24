@@ -45,3 +45,7 @@ Assignment 4 goes over:
 
 ## Assignment 5: [Assignment5](assignment5.html)
 Assignment 5 creates a word cloud of Winston Churchill's speech. If the word is large, it shows up frequently in the speech.
+
+## Exercise 6: [Lab06](Lab06.html)
+Exercise 6 goes over:
+- logistic regression models
