@@ -49,3 +49,7 @@ Assignment 5 creates a word cloud of Winston Churchill's speech. If the word is 
 ## Exercise 6: [Lab06](Lab06.html)
 Exercise 6 goes over:
 - logistic regression models
+
+## Assignment 6: [Assignment6](assignment6.html)
+Assignment 6 goes over:
+- multiple logistic regression models in order to predict voting results
