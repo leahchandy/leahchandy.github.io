@@ -3,7 +3,7 @@ layout: page
 title: Knowledge Mining Exercises
 permalink: /exercises/
 ---
-These exercises are coded in R.
+These exercises and projects are coded in R.
 
 ## Exercise 1: [Lab01](Lab01.html)
 Exercise 1 goes over:
@@ -53,3 +53,9 @@ Exercise 6 goes over:
 ## Assignment 6: [Assignment6](assignment6.html)
 Assignment 6 goes over:
 - multiple logistic regression models in order to predict voting results
+
+## Progress Report 1: [Progress Report 1](ckd_project.html)
+Progress Report 1 goes over:
+- dataset information
+- variable information
+- data visualization
