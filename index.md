@@ -58,4 +58,5 @@ Assignment 6 goes over:
 Progress Report 1 goes over:
 - dataset information
 - variable information
+- imputation of missing values
 - data visualization
