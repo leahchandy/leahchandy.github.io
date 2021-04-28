@@ -24,9 +24,9 @@ Progress Report 2 goes over:
 - information for both training and test sets:
   * imputation of missing values 
   * data visualization of the predictors in the research statement
-  * logistic regression of all the predictors (including a confusion matrix, ROC curve, and AUC) 
-  * logistic regression of the most influential predictors in the all-predictor regression (including a confusion matrix, ROC curve, and AUC)
-  * logistic regression of the predictors in the research statement (including a confusion matrix, ROC curve, and AUC)
+  * logistic regression of all the predictors (including a confusion matrix, ROC curve, and AUC for the test set) 
+  * logistic regression of the most influential predictors in the all-predictor regression (including a confusion matrix, ROC curve, and AUC for the test set)
+  * logistic regression of the predictors in the research statement (including a confusion matrix, ROC curve, and AUC for the test set)
 
 next steps:
 - figuring out how to prevent overfitting
