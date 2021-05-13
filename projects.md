@@ -30,3 +30,10 @@ Progress Report 2 goes over:
 
 next steps:
 - figuring out how to prevent overfitting
+
+## Chronic Kidney Disease Project - Final Project: [Final Project](final_ckd_data.html)
+Final Project goes over:
+- everything in Progress Reports 1 and 2
+- includes centering and scaling of continuous variables
+- defining reference groups for the categorical variables 
+- fixing graphs 
